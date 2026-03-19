@@ -22,3 +22,15 @@ The wiring is pretty simple:
 
 
 ![final result](https://github.com/F45c/esp32-cam-lens/blob/284e94121c8dfd9dfcfefc42dc7ec183e39324e6/pictures/project_image.jpg)
+
+
+### BOM (Bill of Materials):
+
+| Name | Purpose | Cost Per Item (USD) | Quantity | Total (USD) | Link | Distributor |
+|------|---------|---------------------|----------|-------------|------|-------------|
+| Camera Cable FFC FPC extension board adapter 24P 0.5mm 200mm | The camera cable is too short, needed to connect to the esp32 | 6.42 | 1 | 6.42 | https://a.aliexpress.com/_EzdhGvO | Aliexpress |
+|Esp32Cam Module| The esp32 module with camera connector for wifi camera | 16.99 | 1 | 16.99 | https://www.az-delivery.de/products/esp32-cam-modul-esp32-wifi-bluetooth-modul-inklusive-kamera?variant=32376084136032 | AZ-Delivery |
+| OV5640 with lens mount 65 degrees| The camera and the M12 lens mount | 5.94 | 1 | 5.94 | https://a.aliexpress.com/_EJd6qTa | Aliexpress |
+|6-22mm manual varifocal zoom lens | The lens that is adjusted by the servos | 13.76 | 1 | 13.76| https://de.aliexpress.com/item/32812351615.html | Aliexpress
+| metal gear micro servo| Needs to be metal to have enough torque to move the lenses| 17.34 | 1 | 17.34 |https://www.az-delivery.de/products/mg90s-micro-servomotor?variant=32344287182944 | AZ-Delivery |
+
