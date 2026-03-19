@@ -7,6 +7,8 @@ I'm doing this so that I can build my own custom security camera and I needed zo
 
 ![](https://github.com/F45c/esp32-cam-lens/blob/95b15149f01a7ac86738415cefdb0615431f0c87/3dmodel.png?raw=true)
 
+### Here's the simple wiring diagram, it shows the two servos connected to the esp32-cam module:
+
 The wiring is pretty simple:
 - Connect the camera cable into the esp32's camera slot
 - Connect the servos signal wires to GPIO15 and GPIO16
@@ -14,4 +16,9 @@ The wiring is pretty simple:
 
   ![wiring diagram](https://github.com/F45c/esp32-cam-lens/blob/405aea4355f4187bf7702536961c2b9d10761148/wiring.png)
 
-  I added my 3d model design as a blender file because I can't use fusion360 or something. Also, I made an .stl file for the parts (that is ready to be printed)
+
+
+### This is what the final result looks like:
+
+
+![final result](https://github.com/F45c/esp32-cam-lens/blob/284e94121c8dfd9dfcfefc42dc7ec183e39324e6/pictures/project_image.jpg)
